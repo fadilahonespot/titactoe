@@ -1,6 +1,8 @@
 # titactoe
 
-A new Flutter application.
+A new Flutter application.</br>
+<img src="https://github.com/fadilahonespot/titactoe/blob/master/IMG_20200912_154058.jpg" height="420" width="260">
+<img src="https://github.com/fadilahonespot/titactoe/blob/master/IMG_20200912_154041.jpg" height="420" width="260">
 
 ## Getting Started
 
